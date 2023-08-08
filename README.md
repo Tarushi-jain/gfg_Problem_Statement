@@ -8,7 +8,7 @@ Swiggy, a leading food delivery platform, generates a massive volume of data on 
 For Viewing Swiggy Data Analysis : Main.ipynb
 
 Project 2: GeeksofGeeks Data Analysis:
-Utilizing web scraping techniques in main.py file , specifically with the library "requests_html", we can gather data from GeeksforGeeks' YouTube channel spanning six months. The "HTMLSession" library facilitates fetching the data. With the acquired data in hand, we can employ Pandas for data manipulation and analysis. Tasks such as calculating view trends over time, identifying popular video categories, and assessing viewer engagement through likes and comments can be executed. This approach aids in deriving actionable insights from the YouTube data, enabling GeeksforGeeks to optimize content strategy, enhance user engagement, and make informed decisions based on the analysis results.
+Utilizing web scraping techniques in @main.py file , specifically with the library "requests_html", we can gather data from GeeksforGeeks' YouTube channel spanning six months. The "HTMLSession" library facilitates fetching the data. With the acquired data in hand, we can employ Pandas for data manipulation and analysis. Tasks such as calculating view trends over time, identifying popular video categories, and assessing viewer engagement through likes and comments can be executed. This approach aids in deriving actionable insights from the YouTube data, enabling GeeksforGeeks to optimize content strategy, enhance user engagement, and make informed decisions based on the analysis results.
 
 
 
